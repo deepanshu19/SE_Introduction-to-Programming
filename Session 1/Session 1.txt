@@ -1,0 +1,32 @@
+1.Write a short paragraph in your own words defining what a 'program' is and give one real-life example from any app you use daily (like Instagram, Zomato, or Paytm).
+
+Answer - A program is a set of instructions written in a programming language that tells a computer or device what tasks to perform. It helps users complete specific activities by processing data and producing the desired results. For example, when I use Instagram to upload a photo, the Instagram program follows instructions to add filters, save the image, and share it with my followers.
+
+
+2.List three popular programming languages you have heard of, and for each, mention whether it is usually compiled, interpreted, or can be both.<br><br><em><strong>Hint:</strong> Think of languages like Java, Python, and JavaScript.</em>
+
+Answer - Java,python,c#,c++,c,javascript
+
+3.Draw a flowchart (on paper or using any online tool) for the process of booking a movie ticket on BookMyShow, starting from opening the app to receiving the booking confirmation.
+
+Answer - Check Png image
+
+4.Write down the steps (as an algorithm, using simple numbered instructions) for ordering food on Swiggy — from opening the app to completing payment.
+
+Answer - 
+1. Start.
+2. Open the Swiggy app.
+3. Log in to your account if required.
+4. Select or confirm your delivery location.
+5. Search for a restaurant or food item.
+6. Choose a restaurant from the list.
+7. Browse the menu and select the desired food items.
+8. Add the selected items to the cart.
+9. Review the items in the cart.
+10. Enter or confirm the delivery address.
+11. Apply a coupon code if available.
+12. Select a payment method.
+13. Confirm the order details.
+14. Complete the payment.
+15. Receive order confirmation from Swiggy.
+16. End.
